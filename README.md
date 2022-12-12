@@ -1,0 +1,1 @@
+# Bitcoin-Analysis-by-using-ARIMA-and-GARCH-MODEL
